@@ -1,6 +1,7 @@
 {
   "name": "todolist",
   "version": "0.1.0",
+  "homepage": "https://christospatronas.github.io/TODOLIST/",
   "private": true,
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.5.1",
